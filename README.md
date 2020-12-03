@@ -1,6 +1,6 @@
 # The Opioid Epidemic
 ## About
-For this project I worked with my Data Science classmates to analyze the opioid epidemic from 2014-2018 and specifically look into how prescription rates for opioids affect overdose rates in the US. Click [here](https://cmurphy28.github.io/opioid-epidemic.github.io/) to access the webpage. Our code contains the following data analysis:
+For this project I worked with two of my Data Science classmates to analyze the opioid epidemic from 2014-2018 and specifically look into how prescription rates for opioids affect overdose rates in the US. Click [here](https://cmurphy28.github.io/opioid-epidemic.github.io/) to access the webpage. Our code contains the following data analysis:
 ### U.S. Maps of Precription Rates and Overdose Rates
 Here we show filling maps for both prescription rates and overdose rates in the United Sates. The darker colored states have higher prescription and overdose rates. 
 ### Pearson's Correlation Test
