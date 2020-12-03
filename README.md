@@ -1,7 +1,6 @@
 ---
 title: "The Opioid Epidemic"
 author: "Chris Murphy, Tamer Sullivan, and Sean Wei"
-date: "`r Sys.Date()`"
 output:
   rmdformats::readthedown:
     css: "blogcss.css"
